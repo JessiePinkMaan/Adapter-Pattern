@@ -1,0 +1,15 @@
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.csproj.AssemblyReference.cache
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.AssemblyInfoInputs.cache
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.AssemblyInfo.cs
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Kefir_\source\repos\Adapter Pattern\bin\Debug\net6.0\Adapter Pattern.exe
+C:\Users\Kefir_\source\repos\Adapter Pattern\bin\Debug\net6.0\Adapter Pattern.deps.json
+C:\Users\Kefir_\source\repos\Adapter Pattern\bin\Debug\net6.0\Adapter Pattern.runtimeconfig.json
+C:\Users\Kefir_\source\repos\Adapter Pattern\bin\Debug\net6.0\Adapter Pattern.dll
+C:\Users\Kefir_\source\repos\Adapter Pattern\bin\Debug\net6.0\Adapter Pattern.pdb
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.dll
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\refint\Adapter Pattern.dll
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.pdb
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\Adapter Pattern.genruntimeconfig.cache
+C:\Users\Kefir_\source\repos\Adapter Pattern\obj\Debug\net6.0\ref\Adapter Pattern.dll
